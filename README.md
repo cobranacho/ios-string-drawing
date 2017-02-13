@@ -7,4 +7,4 @@ tabulated font size and orientation.  Other functions including motion graphic o
  their correct position in a shor Haiku poem.  On going project for interactive poetry.
  
 ## screenshot
-![alt text](screenshot.jpg "Gesture painter")
+![alt text](screenshot.png "Gesture painter")
